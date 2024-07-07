@@ -64,6 +64,15 @@ body {
     border-radius: 5px;
 }
 
+.btn2 {
+    background-color: #fff;
+    color: #FD6E0A ;
+    border: 1px solid #FD6E0A;
+}
+
+.btn3 {
+    width: 200px;
+}
 
 /* banner */
 
@@ -76,6 +85,10 @@ body {
 .banner .banner-text {
     width: 582px;
     height: auto;
+}
+
+.banner .banner-text .btn1 {
+    width: 170px;
 }
 
 .banner .banner-text h4 {
@@ -258,6 +271,7 @@ body {
 
 hr {
     width: 558px;
+    margin: 30px 0;
 }
 
 .summary .btn1 {
